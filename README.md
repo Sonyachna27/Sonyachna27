@@ -1,16 +1,15 @@
-### Hi there 👋
+# Привіт! Я Олена, Frontend Developer 👋
 
-<!--
-**Sonyachna27/Sonyachna27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Ось деякі з моїх проектів:
 
-Here are some ideas to get you started:
+- [playsite](https://sonyachna27.github.io/playsite/): Мої міні pet-projects.
+- [weather-app](https://sonyachna27.github.io/weather-app/): 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Я також працювала над версткою:
+
+- [Flowers Market](https://sonyachna27.github.io/Flowers-market/): Мій невеличкий проект зі звичайною версткою.
+
+Будь ласка, перегляньте мої проекти і не соромтеся зв'язатися зі мною!
+
+[GitHub](https://github.com/sonyachna27) | [LinkedIn](https://www.linkedin.com/in/olena-kolomiiets-08b506155/) | [Telegram](https://t.me/Olenasonyachna)
+
